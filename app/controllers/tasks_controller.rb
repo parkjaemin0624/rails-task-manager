@@ -30,3 +30,12 @@ class TasksController < ApplicationController
   end
 
 end
+
+
+#1. rails new
+#2. ga and gc
+#3. hub create
+#4. make tables
+#5. rails g model     it creates migration file and model file
+#6. rails db:migrate
+# rails console
